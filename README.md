@@ -15,6 +15,7 @@ These instructions will help you set up and run the project locally for developm
 
 1. Clone the repository.
 2. Run `composer install` to install the dependencies.
+3. Run `symfony server:start` to start the project in the local server
 
 ### Run tests
 
