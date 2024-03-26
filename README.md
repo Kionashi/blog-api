@@ -1,10 +1,15 @@
 ## Blog API
 
-This project is a Symfony project with a simple API for a blog.
+This is a simple Symfony project with a API for a blog.
 
 ## Getting Started
 
-These instructions will help you set up and run the project locally for development and testing purposes.
+This project only contains the API. The frontend can be located in the [following url](https://eslint.org/) 
+
+The API contains 3 main endpoints
+
+The documentation of the API can be found [here](https://documenter.getpostman.com/view/2414022/2sA35D53Jr)
+
 
 ### Prerequisites
 
