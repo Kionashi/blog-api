@@ -4,11 +4,9 @@ This is a simple Symfony project with a API for a blog.
 
 ## Getting Started
 
-This project only contains the API. The frontend can be located in the [following url](https://eslint.org/) 
+This project only contains the API. The frontend can be located in the [following repository](https://github.com/Kionashi/blog-vue) 
 
-The API contains 3 main endpoints
-
-The documentation of the API can be found [here](https://documenter.getpostman.com/view/2414022/2sA35D53Jr)
+The documentation of the API's endpoints can be found [here](https://documenter.getpostman.com/view/2414022/2sA35D53Jr)
 
 
 ### Prerequisites
